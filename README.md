@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anekalab
+- 👋 Hi,
 - 👀 I’m interested in ... Data Analyst , Data Science
 - 🌱 I’m currently learning ... Intern at Spark Foundation
 - 💞️ I’m looking to collaborate on ...Data Analyst 
